@@ -1,6 +1,6 @@
 <template lang="html">
     <div :class="$style.home">
-        <h1>Home222</h1>
+        <h1>Home222d</h1>
     </div>
 </template>
 
